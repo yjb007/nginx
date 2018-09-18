@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ex
+set -x
 
 export SERVICE_NAME='pilipa-inside-nginx'
 export IMAGE_NAME='nginx/yujianbo:latest'
